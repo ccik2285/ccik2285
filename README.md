@@ -1,10 +1,11 @@
 ### Hi there 👋
+
+2022.03~2022.06 KB캐피탈 IT실 인턴
+2023.01~        갤러리아몰 근무중
 <!--
 **ccik2285/ccik2285** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-2022.03~2022.06 KB캐피탈 IT실 인턴
-2023.01~        갤러리아몰 근무중
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
